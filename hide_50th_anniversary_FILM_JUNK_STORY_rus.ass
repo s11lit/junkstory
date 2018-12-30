@@ -16,9 +16,6 @@ Video File: ../../../../Videos/hide 50th anniversary FILM JUNK STORY.mp4
 Video AR Mode: 4
 Video AR Value: 1.839080
 Video Zoom Percent: 0.500000
-Scroll Position: 1426
-Active Line: 1433
-Video Position: 222411
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +25,7 @@ Style: Letter,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Name,,0,0,0,,Перевод на английский:  lakeisle\NПеревод с английского: siilit, last_lullaby\NТайминг: O-Ren\NРедактура: immortal_hhl
 Dialogue: 0,0:00:12.00,0:00:15.00,Name,,0,0,0,,Йошики
 Dialogue: 0,0:00:12.00,0:00:15.00,Default,,0,0,0,,Я всё еще не могу назвать это воспоминаниями.
 Dialogue: 0,0:00:16.00,0:00:20.00,Default,,0,0,0,,Потому что всё продолжается.
